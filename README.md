@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 <div align="center">
-  <img src="public/pedeai-logo.png" alt="PedeAi Logo" width="800">
+  <img src="public/pedeai-logo.png" alt="PedeAi Logo" width="500">
 </div>
 
 ## 📌 Visão Geral
@@ -15,16 +15,16 @@ Aplicação frontend para rede de fastfood desenvolvida com Vue.js 3 e TypeScrip
 ## ✨ Funcionalidades
 
 ### 🧑‍💻 Cliente
-- [x] Catálogo de produtos organizado por categorias
-- [x] Carrinho de compras interativo
-- [x] Fluxo de pedido intuitivo
-- [x] Histórico de pedidos
+- [ ] Catálogo de produtos organizado por categorias
+- [ ] Carrinho de compras interativo
+- [ ] Fluxo de pedido intuitivo
+- [ ] Histórico de pedidos
 
 ### 🛠️ Administrativo
-- [x] Autenticação de administradores
-- [x] CRUD de produtos
-- [x] Dashboard de pedidos
-- [x] Relatórios de vendas
+- [ ] Autenticação de administradores
+- [ ] CRUD de produtos
+- [ ] Dashboard de pedidos
+- [ ] Relatórios de vendas
 
 ## 🚀 Começando
 
@@ -66,6 +66,7 @@ Ferramentas
 - Vitest - Testes unitários
 
 ### 📂 Estrutura do Projeto
+```
 fastfood-frontend/
 ├── src/
 │   ├── assets/           # Arquivos estáticos
@@ -81,13 +82,21 @@ fastfood-frontend/
 ├── tests/                # Testes
 ├── .env.example          # Modelo de variáveis de ambiente
 └── vite.config.ts        # Configuração do Vite
+```
 
 ### 🤝 Como Contribuir
-- Faça um fork do projeto
-- Crie uma branch (git checkout -b feature/AmazingFeature)
-- Commit suas alterações (git commit -m 'Add some AmazingFeature')
-- Push para a branch (git push origin feature/AmazingFeature)
-- Abra um Pull Request
+1. Faça um fork do projeto
+2. Crie sua branch (`git checkout -b feature/nova-feature`)
+3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
+4. Push para a branch (`git push origin feature/nova-feature`)
+5. Abra um Pull Request
 
 ### 📄 Licença
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
+
+---
+
+Feito com ❤️ por [Felipe Costacurta Paruce](https://github.com/fparuce)  
+[![GitHub](https://img.shields.io/github/followers/fparuce?style=social)](https://github.com/fparuce)
+
+---
